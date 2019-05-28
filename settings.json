@@ -1,0 +1,11 @@
+
+{
+	"serverUrl" : "localhost:8080",
+	"url" : "https://www.usps.com/",
+	"testUser" : "admin457",
+	"testPassword" : "Not850match",
+	"version" : "6.0",
+	"browser" : "chrome",
+	"proxyEnabled" : "true"
+	
+}
